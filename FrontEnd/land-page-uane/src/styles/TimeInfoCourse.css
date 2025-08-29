@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;200;400&display=swap');
+
+.backgrounsSectionTimeInfo {
+    background-color: rgba(243, 243, 243, 1);
+}
+
+.titleInfoCourse {
+    color: rgba(153, 153, 153, 1);
+    font-size: 20px;
+}
+
+.fontDataCourse {
+    font-family: "Roboto";
+    font-size: 40px;
+    font-weight: 200;
+}

@@ -1,0 +1,14 @@
+.backgroundSection {
+    background-color: rgba(23, 37, 77, 1);
+}
+
+.infoTec {
+    color: rgba(208, 251, 235, 1);
+    border-color: rgba(208, 251, 235, 1);
+    border-width: 1px;
+}
+
+.backgroundButton {
+    background-color: rgba(19, 142, 152, 1);
+    border-radius: 50px;
+}

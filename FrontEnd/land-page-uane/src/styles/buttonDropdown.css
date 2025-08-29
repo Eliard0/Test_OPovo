@@ -1,0 +1,17 @@
+.title {
+    font-size: 20px;
+    color: rgba(31, 100, 130, 1);
+}
+
+.backgroundButtonDropdown {
+    background-color: rgba(223, 223, 223, 1);
+}
+
+.styleArroButtonDown {
+    font-size: 24px;
+    color: rgba(31, 100, 130, 1);
+}
+
+.styleArroButtonUp{
+    font-size: 24px;
+}

@@ -2,17 +2,25 @@ import { useState } from 'react'
 import './App.css'
 import Header from './components/Header';
 import Footer from './components/Footer';
+import HeroSection from './Views/HeroSection';
+import TimeInfoCourse from './Views/TimeInfoCourse';
+import SkillsInfoCourse from './Views/SkillsInfoCourse';
+import CouserContent from './Views/CouserContent';
+import Courses from './Views/Courses';
+import CoursePrice from './Views/CoursePrice';
 
 function App() {
-  const [count, setCount] = useState(0)
 
   return (
     <>
-      <Header/>
-      <main className="pt-20">
-        <h1 className="text-3xl text-center mt-10">Bem-vindo à Landing Page UANE</h1>
-      </main>
-      <Footer/>
+      <Header />
+      <HeroSection />
+      <TimeInfoCourse />
+      <SkillsInfoCourse />
+      <CouserContent />
+      <Courses />
+      <CoursePrice />
+      <Footer />
     </>
   )
 }
