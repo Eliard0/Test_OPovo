@@ -35,9 +35,9 @@ const CouserContent = () => {
     ];
 
     return (
-        <section className="bg-gray-100 py-12 pl-32 pr-32">
+        <section className="bg-gray-100 px-4 md:px-32 py-12">
             <p className="px-2 mb-3 CouserContentTitle">O que você vai aprender</p>
-            <div className="flex flex-col gap-2">
+            <div className="flex flex-col gap-2 w-full">
                 {data.map((item, index) => (
                     <ButtonDropdown
                         key={index}

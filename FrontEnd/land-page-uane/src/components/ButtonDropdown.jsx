@@ -11,7 +11,7 @@ const ButtonDropdown = ({ title, content }) => {
     };
 
     return (
-        <div className="backgroundButtonDropdown">
+        <div className="backgroundButtonDropdown w-full">
             <div
                 className="flex justify-between items-center py-4 px-2 cursor-pointer transition-colors duration-300"
                 onClick={toggleOpen}
