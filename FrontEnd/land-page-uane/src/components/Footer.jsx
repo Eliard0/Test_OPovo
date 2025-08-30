@@ -8,14 +8,14 @@ const Footer = () => {
     return (
         <footer>
             <div className="mx-auto flex flex-col items-center text-center px-4 tablet:px-8 gap-6 py-5 backgroundFooterSectionOne
-                tablet:flex-col tablet:items-center tablet:text-center
-                lg:flex-row lg:justify-between lg:items-start lg:text-left">
+                lg:grid lg:grid-cols-[1fr,4fr] lg:gap-12 lg:items-start lg:text-left">
 
-                <div className="flex justify-center mb-4 lg:mb-0">
+                <div className="flex flex-col justify-center lg:mb-0">
                     <img src={logo2} alt="UANE Logo" className="mx-auto" />
                 </div>
 
-                <div className="flex flex-col items-center gap-6 tablet:flex-row tablet:justify-between tablet:items-start lg:items-start lg:gap-6">
+                <div className="flex flex-col items-center justify-between tablet:flex-row tablet:justify-between gap-6
+                    lg:flex-row lg:justify-evenly lg:items-start">
 
                     <div className="flex flex-col gap-2">
                         <h4 className="font-bold text-sm titleInfo">Informações</h4>

@@ -21,3 +21,10 @@
 .backgroundCardCourse {
     background-color: rgba(23, 37, 77, 1);
 }
+
+.colorButtonNav {
+    background-color: rgba(208, 251, 235, 1);
+}
+
+.no-scrollbar::-webkit-scrollbar { display: none; }
+.no-scrollbar { -ms-overflow-style: none; scrollbar-width: none; }
