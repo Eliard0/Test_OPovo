@@ -7,8 +7,9 @@ Este projeto foi desenvolvido como parte de um **teste prático** e está dividi
 
 Cada diretório possui o seu próprio **README** com instruções detalhadas de como executar o projeto e explicações sobre sua arquitetura.  
 
-## Entrando Em cada projeto
-Abra seu editor de codigo, use o terminal integrado e certifiquesse de esta no diretorio Test_OPovo. Para entrar no projeto FrontEnd digite cd FrontEnd é para o BackEnd digite cd BackEnd
+## Entrando em cada projeto
+Abra seu editor de código, use o terminal integrado e certifique-se de estar no diretório `Test_OPovo`.  
+Para entrar no projeto **FrontEnd**, digite `cd FrontEnd`; para o **BackEnd**, digite `cd BackEnd`.
 
-## Observações BackEnd 
-Optarmos por usar dados mocado, ao inves de banco de dado para facilitar a execução do projeto como um todo, pois usando banco de dados seria necessário uma configuração diferente conforme cada sistema operacional
+## Observações BackEnd
+Optamos por usar dados **mockados**, ao invés de banco de dados, para facilitar a execução do projeto como um todo, pois utilizando banco de dados seria necessária uma configuração diferente conforme cada sistema operacional.
