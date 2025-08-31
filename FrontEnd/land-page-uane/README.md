@@ -1,12 +1,17 @@
-# React + Vite
+# FrontEnd  
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+O frontend do projeto foi desenvolvido utilizando **React** com **Vite** como bundler, garantindo uma inicialização rápida e uma boa experiência de desenvolvimento.  
+Para estilização, utilizamos **TailwindCSS**, e para ícones, **react-icons**.  
 
-Currently, two official plugins are available:
+## Dependências Principais
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **react** e **react-dom**: Biblioteca principal do frontend.  
+- **react-icons**: Biblioteca de ícones para React.  
+- **vite**: Bundler e servidor de desenvolvimento.  
+- **tailwindcss**: Framework CSS utilitário para estilização rápida.  
 
-## Expanding the ESLint configuration
+## Executando o Projeto
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Para executar o projeto você deve ter o npm ou yarn instalado em seu equipamento.  
+Para baixar todas as dependências do projeto, execute o comando `npm install` ou `yarn install` dentro do diretório land-page-uane no terminal do seu editor de código. Após isso, execute:  
+- `npm run dev` ou `yarn dev` – Será iniciado o servidor de desenvolvimento no terminal. Após a execução desse comando, o terminal mostrará uma URL onde você deve copiar e colar na barra de URL do seu navegador, ou apenas clicar em cima segurando o botão Control para que a aplicação seja aberta em seu navegador.
