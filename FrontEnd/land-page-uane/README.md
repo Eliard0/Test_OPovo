@@ -3,6 +3,8 @@
 O frontend do projeto foi desenvolvido utilizando **React** com **Vite** como bundler, garantindo uma inicialização rápida e uma boa experiência de desenvolvimento.  
 Para estilização, utilizamos **TailwindCSS**, e para ícones, **react-icons**.  
 
+A arquitetura do frontend segue o padrão **MVC (Model-View-Controller)**,
+
 ## Dependências Principais
 
 - **react** e **react-dom**: Biblioteca principal do frontend.  
