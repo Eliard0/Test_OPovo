@@ -7,6 +7,16 @@ Este projeto foi desenvolvido como parte de um **teste prático** e está dividi
 
 Cada diretório possui o seu próprio **README** com instruções detalhadas de como executar o projeto e explicações sobre sua arquitetura.  
 
+## Pré-requisitos
+
+Antes de entrar em cada projeto, você precisa ter instalados em sua máquina:  
+
+- **Node.js** (incluindo npm)  
+  [Documentação oficial e download](https://nodejs.org/)
+
+- **PHP**  
+  [Documentação oficial e download](https://www.php.net/manual/en/install.php)
+
 ## Entrando em cada projeto
 Abra seu editor de código, use o terminal integrado e certifique-se de estar no diretório `Test_OPovo`.  
 Para entrar no projeto **FrontEnd**, digite `cd FrontEnd`; para o **BackEnd**, digite `cd BackEnd`.
