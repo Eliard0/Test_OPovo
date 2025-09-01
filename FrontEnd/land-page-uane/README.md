@@ -12,6 +12,8 @@ Para estilização, utilizamos **TailwindCSS**, e para ícones, **react-icons**.
 
 ## Executando o Projeto
 
-Para executar o projeto você deve ter o npm ou yarn instalado em seu equipamento.  
+Para executar o projeto você deve ter o npm ou yarn instalado em seu equipamento.
+Certifique-se de esta dentro do diretório land-page-uane para executar os comando.
+
 Para baixar todas as dependências do projeto, execute o comando `npm install` ou `yarn install` dentro do diretório land-page-uane no terminal do seu editor de código. Após isso, execute:  
 - `npm run dev` ou `yarn dev` – Será iniciado o servidor de desenvolvimento no terminal. Após a execução desse comando, o terminal mostrará uma URL onde você deve copiar e colar na barra de URL do seu navegador, ou apenas clicar em cima segurando o botão Control para que a aplicação seja aberta em seu navegador.
